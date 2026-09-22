@@ -1,0 +1,3 @@
+# Lab 01 Report
+
+This lab helped me understand the basic workflow of Git and GitHub using a web technologies project. I learned how to create a repository, commit changes, push and pull files, and work with Git branches. I also practiced creating an experimental branch and merging it into the main branch. Overall, this lab improved my understanding of version control and collaborative software development.
